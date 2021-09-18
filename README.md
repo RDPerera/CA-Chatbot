@@ -1,2 +1,2 @@
-# Depression Assistant Chatbot
+# CA Chatbot
 Mental health problems affect everyone at some point. AI can be beneficial in these instances. The implementation of a Tweet/Sentence Sentiment Classification (repository available on my profile) to a concept of "Cancer Assistant Chatbot" is the focus of this project. In this concept, the chatbot inquires about the users' emotions, and if their responses express sadness, fear, or anger, they are greeted with jokes and motivational messages until they feel better.
